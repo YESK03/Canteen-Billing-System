@@ -80,7 +80,7 @@ canteen-billing-system/
 
 ```bash
 # 1. Clone the repository
-git clone <YOUR-GITHUB-REPO-URL>
+git clone https://github.com/YESK03/Canteen-Billing-System/tree/main
 
 # 2. Go into the project folder
 cd canteen-billing-system
